@@ -17,6 +17,10 @@ function App() {
       <Skills/>
       <Contact/>
     </main>
+      // <h1 className="text-gray-400 bg-gray-900 body-font">
+      //   Hello world!
+      // </h1>
+  
   );
 }
 
